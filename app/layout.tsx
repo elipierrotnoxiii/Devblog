@@ -4,8 +4,6 @@ import "./globals.css";
 import Providers from "./providers";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import DevBlog from "./components/DevBlog";
-import Cards from "./components/Cards";
 import Footer from "./components/Footer";
 
 

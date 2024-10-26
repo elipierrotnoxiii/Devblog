@@ -13,7 +13,7 @@ const Cards = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
-              <img className="rounded-t-lg" src="/img/Hero3.jpg" alt="" />
+              <img className="rounded-t-lg" src="/img/Hero3.jpg" alt="hero" />
             </a>
             <div className="p-5">
               <a href="#">
@@ -28,7 +28,7 @@ const Cards = () => {
           </div>
           <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
-              <img className="rounded-t-lg w-full" src="/img/Features.jpeg" alt="" />
+              <img className="rounded-t-lg w-full" src="/img/Features.jpeg" alt="features" />
             </a>
             <div className="p-5">
               <a href="#">
@@ -42,7 +42,7 @@ const Cards = () => {
           </div>
           <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
-              <img className="rounded-t-lg" src="/img/Update.jpg" alt="" />
+              <img className="rounded-t-lg" src="/img/Update.jpg" alt="update" />
             </a>
             <div className="p-5">
               <a href="#">

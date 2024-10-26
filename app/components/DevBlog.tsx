@@ -7,7 +7,7 @@ const DevBlog = () => {
             <div className="col-span-4 sm:col-span-3">
                 <div className="bg-white shadow rounded-lg p-6">
                     <div className="flex flex-col items-center">
-                        <img src="/img/Avatar-foto.jpg" className="w-32 h-32 bg-gray-300 rounded-full mb-4 shrink-0">
+                        <img src="/img/Avatar-foto.jpg" className="w-32 h-32 bg-gray-300 rounded-full mb-4 shrink-0" alt="avatar">
 
                         </img>
                         <h1 className="text-xl font-bold">Geo</h1>

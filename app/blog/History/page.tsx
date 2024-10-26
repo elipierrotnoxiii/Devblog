@@ -12,7 +12,7 @@ The player takes on the role of a Time Guardian, one of the few chosen to cross 
 
 Every era challenges the Guardian with puzzles, enemies, and ethical choices that impact both the present and future. The Guardian can acquire artifacts that grant special time-based powers, like freezing time, glimpsing the past, or briefly rewinding events.
 
-As the Guardian progresses, they learn that The Shadow is a fallen Guardian who once witnessed the self-destruction of civilizations and now aims to reshape time to prevent humanity's mistakes. In the final confrontation, the player must either convince The Shadow of humanity’s potential for growth or face them in a climactic battle of temporal powers. Player choices influence the outcome, leading to multiple endings where time is either restored, changed, or left in permanent imbalance.
+As the Guardian progresses, they learn that The Shadow is a fallen Guardian who once witnessed the self-destruction of civilizations and now aims to reshape time to prevent humanity&apos;s mistakes. In the final confrontation, the player must either convince The Shadow of humanity&apos;s potential for growth or face them in a climactic battle of temporal powers. Player choices influence the outcome, leading to multiple endings where time is either restored, changed, or left in permanent imbalance.
 
             </p>
         </div>

@@ -19,13 +19,13 @@ Each time period is filled with era-specific puzzles that require logic and unde
 <br/>
 <br/>
 <span className='text-xl font-bold mb-4'>Choice-Driven Narrative: </span> 
-Player choices influence the story's direction and impact the timeline, leading to multiple possible endings. Decisions made in one era resonate across others, affecting characters, events, and even the game's outcome.
+Player choices influence the story&apos;s direction and impact the timeline, leading to multiple possible endings. Decisions made in one era resonate across others, affecting characters, events, and even the game&apos;s outcome.
 
 <br/>
 <br/>
 
 <span className='text-xl font-bold mb-4'>Historical and Mythical Characters: </span>   
-Encounter historical and mythical figures along the way. These interactions offer insight into each era and challenge the player to make choices that balance their mission with the needs of each period’s inhabitants.
+Encounter historical and mythical figures along the way. These interactions offer insight into each era and challenge the player to make choices that balance their mission with the needs of each period&apos;s inhabitants.
 
 <br/>
 <br/>
